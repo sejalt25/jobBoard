@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<!-- Blade to login jobboard protal -->
 <section class="section-hero overlay inner-page bg-image" style="margin-top: -24px; background-image: url({{asset('assets\images\hero_1.jpg')}}); margin-top: -24px;" id="home-section">
       <div class="container">
         <div class="row">
