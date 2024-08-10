@@ -1,0 +1,3 @@
+[submodule "jobBoard"]
+	path = jobBoard
+	url = https://github.com/sejalt25/jobBoard.git
